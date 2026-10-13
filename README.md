@@ -1,4 +1,4 @@
-# Upstream-Supply-Chain-Optimization
+# Upstream-Supply-Chain-Optimization - CASE STUDY
 
 Case study on Home Depot supply and delivery chain, understanding bottlenecks and providing ideas for optimizations
 
